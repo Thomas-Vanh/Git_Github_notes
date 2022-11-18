@@ -1,12 +1,10 @@
-# Git_Github_notes
-
  ![logo](docs/f6d.png)
 
-## Git and Github notes
+# Git and Github notes
 
 ***
 
-### First steps
+## First steps
 
 - To install git on ubuntu
   ```
@@ -26,7 +24,9 @@
 
     > Sets the email    attached to your commits transactions
 
-### Create Repo
+***
+
+## Create Repo
 
 A new repository can either be created
 locally, or an existing repository can be cloned. When a repository was initialized locally, you have to push it to GitHub afterwards.
@@ -73,6 +73,8 @@ $ git pull
 
 > Update your current local working branch with all new commits from the corresponding remote branch on GitHub
 
+***
+
 ## A tree without branches is not a tree
 
 - Branches are an important part of working with Git. Any commits you make will be made on the branch you’re currently “checked out” to. Use git status to see which branch that is.
@@ -106,6 +108,8 @@ If you delete a head branch after its pull request has been merged, GitHub check
 ![diagram](docs/branch_diagram.png)
 
 ![diagram2](docs/branch_diagram2.png)
+
+***
 
 ## History is a better guide than good intentions
 
@@ -145,6 +149,8 @@ $ git commit -m "[descriptive message]"
 ```
 
 > Records files snapshots permanently in version history
+
+***
 
 ## An error can be undone
 
