@@ -101,7 +101,7 @@ $ git branch -d [branch-name]
 
 If you delete a head branch after its pull request has been merged, GitHub checks for any open pull requests in the same repository that specify the deleted branch as their base branch. GitHub automatically updates any such pull requests, changing their base branch to the merged pull request's base branch.
 
-
+![diagram](docs/branch_diagram.png)
 
 ## History is a better guide than good intentions
 
