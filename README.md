@@ -1,6 +1,6 @@
 # Git_Github_notes
 
- ![logo](f6d.png)
+ ![logo](docs/f6d.png)
 
 ## Git and Github notes
 
