@@ -35,7 +35,7 @@ $ git init
 >Set the directory you are in as git repository
 
 
-  After using the git init command, link the local repository to an empty GitHub repository using the following command:
+  After using the ***git init command*** , link the local repository to an empty GitHub repository using the following command:
   ```
   $ git remote add origin [url]
   ```
