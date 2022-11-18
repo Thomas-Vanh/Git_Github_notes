@@ -4,6 +4,8 @@
 
 ## Git and Github notes
 
+***
+
 ### First steps
 
 - To install git on ubuntu
