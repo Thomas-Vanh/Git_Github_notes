@@ -166,5 +166,5 @@ $ git reset [commit]
 $ git reset --hard [commit]
 ```
 
-> Discards all hsitory and changes back to the specified commit
+> Discards all history and changes back to the specified commit
 
