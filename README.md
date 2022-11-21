@@ -73,6 +73,10 @@ $ git pull
 
 > Update your current local working branch with all new commits from the corresponding remote branch on GitHub
 
+let's illustrate this with a little diagram
+
+![lifecycle](docs/lifecycle.png)
+
 ***
 
 ## A tree without branches is not a tree
@@ -89,7 +93,7 @@ $ git branch [branch-name]
 $ git switch -c [branch-name]
 ```
 
-> Switches to the specified branch and updates the woring directory 
+> Switches to the specified branch and updates the working directory 
 
 ```
 $ git merge [branch]
