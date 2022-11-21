@@ -2,6 +2,8 @@
 
 # Git and Github notes
 
+Git is a versioning tools links to a hub call GitHub. It allows u to create a repository on the hub in open source, so peer can contribute to your work without touching the core of your repositories. It's a powerfull tool because it give u the possibilitie to fork (clone) a repositorie from a peer to make some change on it then u could pull a request to the owner to contribute to his work and if he want he can merge it with the original work to improve it. I forget to tell that u can have a local copy of your repositories to modified it and commit some change . Commit does not get directly send to your remote repository it goes to a staged area then u could a push it to ur remote repo.
+
 ***
 
 ## First steps
